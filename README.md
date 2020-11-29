@@ -1,2 +1,2 @@
 # FishQuarium
-Baca FishQuarium.doc untuk info lebih lanjut
+Baca FishQuarium.docx untuk info lebih lanjut
